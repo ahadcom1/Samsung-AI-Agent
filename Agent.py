@@ -5,7 +5,7 @@ import json
 import edge_tts
 
 # 1. API Configuration: Inverted commas ke andar apni asli AQ Key paste karein
-API_KEY = "AQ.YAHAN_APNI_KEY_PASTE_KAREIN"
+API_KEY = "AQ.Ab8RN6KKJefOkSfTRGHSXkWf95I-Nr_wIfY3iZ2agGjl-OfjzQ"
 
 # 2. Voice TTS Setup (Lightweight larki ki awaz)
 async def speak(text):
